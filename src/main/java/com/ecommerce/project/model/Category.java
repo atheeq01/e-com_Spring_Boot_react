@@ -9,11 +9,11 @@ public class Category {
         this.categoryName = categoryName;
     }
 
-    public Long getCategotyID() {
+    public Long getCategoryID() {
         return categotyID;
     }
 
-    public void setCategotyID(Long categotyID) {
+    public void setCategoryID(Long categotyID) {
         this.categotyID = categotyID;
     }
 
@@ -24,4 +24,5 @@ public class Category {
     public void setCategoryName(String categoryName) {
         this.categoryName = categoryName;
     }
+
 }
